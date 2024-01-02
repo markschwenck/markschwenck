@@ -3,7 +3,7 @@ Olá pessoal 👋
 Meu nome é Markcell Schwenck.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo sobre JS e Angular.
+- 🌱 Atualmente estou aprendendo sobre React.
 - 🚀 Sempre em busca de conhecimento.
 
 
@@ -16,7 +16,7 @@ Minhas Skills:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80" height="30"  />  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="120" height="30"  />  
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="120" height="30"  />  
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whi" width="120" height="30"  />  
+ 
   
 </div>
 
