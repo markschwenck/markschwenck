@@ -3,8 +3,8 @@ Olá pessoal 👋
 Meu nome é Markcell Schwenck.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo sobre React.
-- 🚀 Sempre em busca de conhecimento.
+- 🌱 Atualmente estou aprendendo sobre React e C#.
+
 
 
 
