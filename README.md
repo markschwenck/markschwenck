@@ -20,7 +20,6 @@ Minhas Skills:
   
 </div>
 
-DevOps:
 
 <div>
 
